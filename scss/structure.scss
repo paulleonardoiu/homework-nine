@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    // outline: auto;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+
+html,body{
+    height: 100%;
+    width: 100%;
+    // background-color: rgb(26, 28, 24);
+    background-color: white;
+}
+
+h1,h2,h3,h4,h5,h6,p{
+    margin-bottom: 16px;
+}
+
+.site-container{
+    max-width: 100%;
+    min-height: 100%;
+    // background-color: blue;
+    background-color: white;
+}
+// blue #79ADDC
